@@ -1,5 +1,6 @@
 # NetClone
 Um Clone do netflix feito para estudos. Utilizei Firebase, Html, css, Javascript e react. O projeto tem o design construído com styled componentes, utiliza fuse.js, normalize css e é estruturado com compound components e context.
+Você pode testá-lo em : https://600093e8f676f1359d33a566--netcl.netlify.app/
 
 ![screencapture-localhost-3000-browse-2021-01-14-13_21_30](https://user-images.githubusercontent.com/68382630/104618530-98348400-566b-11eb-82f7-75ef62d2d2b0.png)
 
