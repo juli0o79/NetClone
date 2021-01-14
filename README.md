@@ -19,3 +19,5 @@ Um Clone do netflix feito para estudos. Utilizei Firebase, Html, css, Javascript
   
   ![player](https://user-images.githubusercontent.com/68382630/104620888-3de8f280-566e-11eb-858f-e17b3663c906.png)
   
+  Projeto com o objetivo de estudo baseado na plataforma Netflix.
+  
