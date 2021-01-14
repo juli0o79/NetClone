@@ -8,6 +8,8 @@ Um Clone do netflix feito para estudos. Utilizei Firebase, Html, css, Javascript
 &#8226; Pojeto propõe a criação de uma plataforma de streaming de vídeos e séries
 &#8226; Usuário tem acesso à plataforma apos criar uma conta (Validação simples de inputs)
 
+![screencapture-localhost-3000-signin-2021-01-14-13_20_35](https://user-images.githubusercontent.com/68382630/104619685-edbd6080-566c-11eb-8e0a-68f70abbc092.png)
+
 # Projeto conta com as seguintes features;
 
   &#8226;Player de vídeo dinâmico.
